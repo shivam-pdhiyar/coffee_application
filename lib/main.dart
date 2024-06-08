@@ -1,5 +1,3 @@
-import 'package:coffee_application/sdfghj.dart';
-import 'package:coffee_application/search.dart';
 import 'package:flutter/material.dart';
 
 import 'onbording.dart';
