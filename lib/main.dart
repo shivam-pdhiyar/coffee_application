@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'onbording.dart';
 
 void main() {
